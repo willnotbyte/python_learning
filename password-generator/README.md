@@ -1,0 +1,1 @@
+Using 'import random', the code takes the user's input to specify the amount of passwords, along with the number of characters requested. The code then takes the user's input, and using the set of characters, generates the requested number of passwords.
